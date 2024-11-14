@@ -1,7 +1,7 @@
 [package]
 name = "brewtui"
 version = "0.1.0"
-authors = ["00y300]
+authors = ["00y300"]
 license = "MIT"
 edition = "2021"
 
